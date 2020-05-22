@@ -1,0 +1,86 @@
+
+
+header h1 {
+	/*portfolio */
+margin: 0;
+background: #666;
+color:grey;
+display: :inline;
+list-style-type: none;
+width: 100%;
+height: auto;
+height: 50px;
+text-align: center;
+font-family: Helvetica;
+font-size: 40px;
+text-shadow: 1px 1px 1px 1px white;
+letter-spacing: 6px;
+
+}
+
+
+
+
+body header nav ul li {
+	/*navigációs sáv */
+	
+	display: inline-block;
+	background: #666;
+	float: middle;
+	margin: 0;
+	list-style-type: none;
+	padding: 5px;
+	text-align: center;
+	width: 100%;
+	font-family: Arial;
+	text-shadow: 1px 1px 1px grey;
+}
+
+body header nav ul li a {
+	/*nav sáv betű színe*/
+	color: #110;
+}
+
+
+footer{
+	/*foot része */
+	clear: both;
+	position: absolute;
+
+}
+
+
+h3 div em strong{
+/*  early age és a többi*/
+	background: #696969;
+	color: black;
+	margin: 0;
+	padding: 5px;
+	width: 30%;
+	font-variant: small-caps;
+
+
+}
+h3 div em {
+	width: 30%;
+}
+
+body h1 div{  
+	/*a welcome sáv színe */
+	background: grey;
+	margin: 0;
+	color: silver;
+	text-align: center;
+	text-shadow: 1px 1px 1px 1px black;
+	font-family: Helvetica;
+	float: middle;
+	
+}
+
+
+body {
+/*a teljes háttér szín*/
+	background: grey;
+	margin: 0.5%;
+}
+
